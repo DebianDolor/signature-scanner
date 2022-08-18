@@ -1,4 +1,4 @@
-# Signature Scanner
+# Signature Scanner (MFC)
 
 ## Chức năng chính:
 
